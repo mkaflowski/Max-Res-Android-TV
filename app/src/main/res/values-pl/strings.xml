@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Auto Max Resolution</string>
+    <string name="about">O aplikacji</string>
+    <string name="created">Zrobiona dla taty :)</string>
+    <string name="check_desc"><![CDATA[Aplikacje > Specjalny dostęp do aplikacji > Wyświetlanie nad innymi]]></string>
+    <string name="check_diaplsy">Zaznacz wyświetlaj nad innmy dla </string>
+    <string name="current">"Obecny tryb = "</string>
+    <string name="debug">Pokazuj debug</string>
+    <string name="debug_desc">Pokazuje obecny tryb w lewym-górnym rogu</string>
+    <string name="off">Wył</string>
+    <string name="on">Wł</string>
+    <string name="set_max">Ustaw maksymalną rozdzielczość</string>
+    <string name="turn_auto">Włączaj automatycznie</string>
+</resources>

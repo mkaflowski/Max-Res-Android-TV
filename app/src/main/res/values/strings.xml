@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name" translatable="false">Auto Max Resolution</string>
+    <string name="browse_title" translatable="false"><![CDATA[Videos by Your Company]]></string>
+    <string name="related_movies" translatable="false">Related Videos</string>
+    <string name="grid_view" translatable="false">Grid View</string>
+    <string name="error_fragment" translatable="false">Error Fragment</string>
+    <string name="personal_settings" translatable="false">Personal Settings</string>
+    <string name="watch_trailer_1" translatable="false">Watch trailer</string>
+    <string name="watch_trailer_2" translatable="false">FREE</string>
+    <string name="rent_1" translatable="false">Rent By Day</string>
+    <string name="rent_2" translatable="false">From $1.99</string>
+    <string name="buy_1" translatable="false">Buy and Own</string>
+    <string name="buy_2" translatable="false">AT $9.99</string>
+    <string name="movie" translatable="false">Movie</string>
+
+    <!-- Error messages -->
+    <string name="error_fragment_message" translatable="false">An error occurred</string>
+    <string name="dismiss_error" translatable="false">Dismiss</string>
+    <string name="title_activity_settings" translatable="false">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header" translatable="false">Messages</string>
+    <string name="sync_header" translatable="false">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title" translatable="false">Your signature</string>
+    <string name="reply_title" translatable="false">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title" translatable="false">Sync email periodically</string>
+    <string name="attachment_title" translatable="false">Download incoming attachments</string>
+    <string name="attachment_summary_on" translatable="false">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off" translatable="false">Only download attachments when manually requested</string>
+    <string name="title_activity_my_settings" translatable="false">Settings</string>
+    <string name="guidedstep_fourth_title" translatable="false">title</string>
+    <string name="guidedstep_fourth_breadcrumb" translatable="false">guidedstep_fourth_breadcrumb</string>
+    <string name="guidedstep_first_title" translatable="false">guidedstep_first_title</string>
+    <string name="guidedstep_first_breadcrumb" translatable="false">guidedstep_first_breadcrumb</string>
+    <string name="guidedstep_first_description" translatable="false">guidedstep_first_description</string>
+    <string name="guidedstep_second_title" translatable="false">guidedstep_second_title</string>
+    <string name="guidedstep_second_breadcrumb" translatable="false">guidedstep_second_breadcrumb</string>
+    <string name="guidedstep_second_description" translatable="false">guidedstep_second_description</string>
+    <string name="guidedstep_third_title" translatable="false">guidedstep_third_title</string>
+    <string name="guidedstep_third_breadcrumb" translatable="false">guidedstep_third_breadcrumb</string>
+    <string name="guidedstep_third_description" translatable="false">guidedstep_third_description</string>
+    <string name="check_diaplsy">Check \"Display over other apps\" for</string>
+    <string name="check_desc"><![CDATA[Apps > Special app access > Display over other apps]]></string>
+    <string name="set_max">Set maximum resolution</string>
+    <string name="current">Current mode =</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="turn_auto">Turn on automatically</string>
+    <string name="debug">Show debug info</string>
+    <string name="debug_desc">Show applied mode in top-left corner</string>
+    <string name="about">About</string>
+    <string name="created">Created for tata</string>
+</resources>
